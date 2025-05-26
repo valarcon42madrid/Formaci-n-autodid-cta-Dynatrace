@@ -38,13 +38,3 @@ Visualizar cómo Dynatrace puede simular usuarios finales internos o externos pa
 
 https://github.com/valarcon42madrid/Dynatrace-t3
 
-## ☁️ Taller 4 – Integración con AWS y Terraform
-Enfoque:
-Automatización del despliegue de infraestructura en AWS usando Terraform, y su integración con Dynatrace para el monitoreo en la nube.
-Se crea un bucket S3 con contenido web y se configura la observabilidad vía API.
-
-Beneficio clave:
-Introducir la automatización del monitoreo en la nube, integrando Dynatrace con AWS de forma programada y reproducible.
-
-
-https://github.com/valarcon42madrid/Dynatrace-t4
