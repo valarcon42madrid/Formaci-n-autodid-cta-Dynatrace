@@ -26,4 +26,11 @@ Demostrar la detección automatizada de vulnerabilidades con Dynatrace Applicati
 
 https://github.com/valarcon42madrid/Dynatrace-t2
 
+## Taller 3 – Dynatrace en Terraform
+Enfoque:
+Levantamos un sustituto de Aws en contenedor y usamos lambda para poder subir archivos a un bucket de S3; instrumentamos el código para que genere logs en Dynatrace.
 
+Beneficio clave:
+Practicar instrumentaciones de Dynatrace alternativas y en entornos más probables en contextos profesionales.
+
+https://github.com/valarcon42madrid/Dynatrace-t3
