@@ -1,4 +1,4 @@
-Esta serie de talleres tiene como objetivo introducir y demostrar el uso de Dynatrace, una plataforma de observabilidad e inteligencia automática, aplicada a diferentes entornos de TI. Los ejercicios están diseñados para simular escenarios reales de monitoreo, seguridad y automatización, utilizando herramientas modernas como Docker, Terraform y AWS.
+Estos de talleres tiene como objetivo introducir y demostrar el uso de Dynatrace, una plataforma de observabilidad e inteligencia automática. Los ejercicios están diseñados para simular escenarios reales de monitoreo, seguridad y automatización.
 
 Antes de comenzar obten un período de prueba gratuito. Si ya se ha gastado puedes usar servicios de email temporal (https://temp-mail.org/es/) o crear una nueva cuenta de correo.
 
@@ -18,7 +18,7 @@ https://github.com/valarcon42madrid/Dynatrace-t1
 ## 🔐 Taller 2 – Seguridad en Aplicaciones Java (AppSec)
 Enfoque:
 Simulación de una vulnerabilidad real (Log4Shell) dentro de una aplicación Java.
-Dynatrace OneAgent se integra directamente en la app para mostrar cómo se detectan componentes vulnerables y ejecuciones riesgosas en tiempo de ejecución.
+Dynatrace OneAgent se integra en un contenedor Docker para monitorear una app, dónde se detectan componentes vulnerables y ejecuciones en tiempo de ejecución.
 
 Beneficio clave:
 Demostrar la detección automatizada de vulnerabilidades con Dynatrace Application Security y cómo se protegen los entornos sin intervención manual.
