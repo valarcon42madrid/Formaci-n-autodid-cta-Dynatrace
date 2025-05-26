@@ -5,7 +5,7 @@ Antes de comenzar obten un período de prueba gratuito. Si ya se ha gastado pued
 ## 🧪 Taller 1 – Introducción con Docker + OneAgent
 Enfoque:
 Monitoreo básico de una aplicación local.
-Se instala Dynatrace OneAgent en una máquina (Docker Host) y se despliega una aplicación web sencilla para observar métricas de rendimiento en tiempo real.
+Se instala Dynatrace OneAgent y se despliega una aplicación web sencilla para observar métricas de rendimiento en tiempo real.
 
 Beneficio clave:
 Aprender cómo se conecta Dynatrace a los procesos en ejecución y cómo detecta automáticamente servicios y componentes en contenedores. Ideal para probar a hacer dashboards en DQL (Solicitudes por minuto, Tiempos de respuesta, Errores HTTP).
