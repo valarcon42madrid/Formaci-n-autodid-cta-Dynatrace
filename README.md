@@ -27,14 +27,3 @@ Demostrar la detección automatizada de vulnerabilidades con Dynatrace Applicati
 https://github.com/valarcon42madrid/Dynatrace-t2
 
 
-
-## 🌐 Taller 3 – Synthetic Monitoring desde una red simulada
-Enfoque:
-Se utiliza un contenedor con ActiveGate para crear una ubicación privada simulada, desde donde se ejecutan monitores sintéticos contra servicios internos de una red Docker.
-
-Beneficio clave:
-Visualizar cómo Dynatrace puede simular usuarios finales internos o externos para probar la disponibilidad de servicios, incluso si están en redes privadas.
-
-
-https://github.com/valarcon42madrid/Dynatrace-t3
-
