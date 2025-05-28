@@ -18,7 +18,7 @@ https://github.com/valarcon42madrid/Dynatrace-t1
 ## 🔐 Taller 2 – Seguridad en Aplicaciones Java (AppSec)
 Enfoque:
 Simulación de una vulnerabilidad real (Log4Shell) dentro de una aplicación Java.
-Dynatrace OneAgent se integra en un contenedor Docker para monitorear una app, dónde se detectan componentes vulnerables y ejecuciones en tiempo de ejecución.
+Dynatrace OneAgent se integra en un contenedor Docker para monitorear una app, dónde se detectan componentes vulnerables y peligros en tiempo de ejecución.
 
 Beneficio clave:
 Demostrar la detección automatizada de vulnerabilidades con Dynatrace Application Security y cómo se protegen los entornos sin intervención manual.
